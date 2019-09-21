@@ -1,0 +1,33 @@
+body{
+    background: url('../img/background.png') center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.mdl-layout {
+    align-items: center;
+    justify-content: center;
+}
+.mdl-layout__content {
+	padding: 24px;
+	flex: none;
+}
+
+.comp_logo{
+    height: 40px;
+    width: 40px;
+}
+
+.solo{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.upper{
+    text-align: center;
+    align-content: center;
+}
+
+.btn{
+    align-content: center;
+}
