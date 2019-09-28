@@ -3,6 +3,7 @@ This is the Master Branch of Material Design Web Development Repo.
 
 ## List of Done Development
 1. Login & Registration Page Demo :- [See live Demo](https://vkpdeveloper.github.io/Material-Design-Web-Development/Login%20&%20Registration%20Page/)
+2. Blog Layout Page Demo :- [See live Demo](https://vkpdeveloper.github.io/Material-Design-Web-Development/Blog%20Layout/)
 
 
 # Licence
